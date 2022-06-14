@@ -9,7 +9,7 @@
 ##  UI/UX Designer 🧔🧔 
 ##  Tech Geek 😄 
 
-![](https://komarev.com/ghpvc/?username=saedMuhamed&&style=flat-square)
+![](https://komarev.com/ghpvc/?username=saedMuhamed&color=green&style=flat-square)
 
 <!--
 **saedMuhamed/saedMuhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
