@@ -2,14 +2,14 @@
 
 ### 🔭 I’m currently working on  👉  Daryeel Tech 👩‍💻
 
+![](https://komarev.com/ghpvc/?username=saedMuhamed&color=black&style=flat-square)
+
 ### Software Engineering 
 
-##  React 🥶 Developer 
-##  MERN DEV 😎 
-##  UI/UX Designer 🧔🧔 
-##  Tech Geek 😄 
-
-![](https://komarev.com/ghpvc/?username=saedMuhamed&color=green&style=flat-square)
+###  React 🥶 Developer 
+###  MERN DEV 😎 
+###  UI/UX Designer 🧔🧔 
+###  Tech Geek 😄 
 
 <!--
 **saedMuhamed/saedMuhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
