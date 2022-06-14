@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###🔭 I’m currently working on  👉  Daryeel Tech 👩‍💻
+### 🔭 I’m currently working on  👉  Daryeel Tech 👩‍💻
 
 
 <!--
