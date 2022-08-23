@@ -3,6 +3,7 @@
 ### 🔭 I’m currently working on  👉  Daryeel Tech 👩‍💻
 
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=orange&style=for-the-badgelabel=Those+WhoCameHere)
+ [![Stats](https://github-readme-stats.vercel.app/api?username=saedMuhamed)](https://github.com/saedMuhamed/github-readme-stats)
 
 ### Software Engineering 
 
@@ -25,6 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
- [![Stats](https://github-readme-stats.vercel.app/api?username=saedMuhamed)](https://github.com/saedMuhamed/github-readme-stats)
+
 
 
