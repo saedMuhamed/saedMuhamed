@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-<!-- [![Stats](https://github-readme-stats.vercel.app/api?username=saedMuhamed)](https://github.com/saedMuhamed/github-readme-stats) -->
+ [![Stats](https://github-readme-stats.vercel.app/api?username=saedMuhamed)](https://github.com/saedMuhamed/github-readme-stats)
 
 
