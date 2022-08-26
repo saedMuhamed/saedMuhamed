@@ -14,7 +14,7 @@ not# Hi there 👋👋
 ###  UI/UX Designer 🧔🧔 
 ###  Tech Geek 😄 
 
-🌱 I’m currently learning
+🌱 I’m cu
 
 <!--
 **saedMuhamed/saedMuhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
