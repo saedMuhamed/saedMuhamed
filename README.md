@@ -1,4 +1,4 @@
-not# Hi there 👋👋
+# Hola !!  👋👋
 
 ### 🔭 I’m Currently working on  👉  Daryeel Tech 👩‍💻
 
@@ -12,9 +12,7 @@ not# Hi there 👋👋
 ###  🫡 React 🏋️ Developer 
 ###  MERN DEV 😎 
 ###  UI/UX Designer 🧔🧔 
-###  Tech Geek 😄 
-
-🌱 I’m cu
+###  Tech Geek 🐐
 
 <!--
 **saedMuhamed/saedMuhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
