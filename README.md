@@ -1,4 +1,4 @@
-# Hola !!  👋👋 🤗
+# Hola !!  👋👋 
 
 ### 🔭 I’m Currently Working on  👉  Daryeel Tech 👩‍💻
 
