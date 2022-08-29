@@ -1,6 +1,6 @@
 # Hola !!  👋👋 
 
-### 🔭 I’m Currently Working on   Daryeel Tec 👩‍💻
+### 🔭 I’m Currently Working on   Daryeel  👩‍💻
 
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=orange&style=for-the-badgelabel=Those+WhoCameHere) 
 
