@@ -11,7 +11,7 @@
 
 ###  🫡 React 🏋️ Developer 
 ###  MERN DEV 😎 
-###  UI/UX Designer 🧔🧔 
+###  UI/UX Designer 
 ###  Tech Geek 🤗 🐐
 
 <!--
