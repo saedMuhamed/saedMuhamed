@@ -1,6 +1,6 @@
 # Hola !!  👋👋 
 
-## ⭐ If you come here Star some 
+## ⭐ If you come here Star som
 
 
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=orange&style=for-the-badgelabel=Those+WhoCameHere) 
