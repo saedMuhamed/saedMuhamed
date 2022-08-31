@@ -1,6 +1,6 @@
 # Hola !!  👋👋 
 
-## ⭐ If you com
+## ⭐ If you co
 
 
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=orange&style=for-the-badgelabel=Those+WhoCameHere) 
