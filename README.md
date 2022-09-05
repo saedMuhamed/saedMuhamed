@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=orange&style=for-the-badgelabel=Those+WhoCameHere) 
 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=saedMuhamed&theme=light&hide_border=false&include_all_commits=true&count_private=true) -->
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=saedMuhamed)](https://github.com/saedMuhamed/github-readme-stats) -->
 
