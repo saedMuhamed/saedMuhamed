@@ -8,7 +8,8 @@
 
 [](https://github-readme-stats.vercel.app/api?saedMuhamed=saedMuhamed&theme=light&hide_border=false&include_all_commits=true&count_private=true) 
 
-<!-- [![Stats](https://github-readme-stats.vercel.app/api?saedMuhamed=saedMuhamed)](https://github.com/saedMuhamed/github-readme-stats) -->
+[![Stats](https://github-readme-stats.vercel.app/api?saedMuhamed=saedMuhamed)](https://github.com/saedMuhamed/github-readme-stats) 
+
 
 ### Software Engineering 
 
