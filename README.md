@@ -2,9 +2,7 @@
  <h1 align="center">
  <img src="https://media.giphy.com/media/aUrDJsimOMZbYmwUL6/giphy.gif" width="100" height="">
   
- </h1>
- <h1 align="center"> 
-<img src="https://media.giphy.com/stickers/JUSTROCKET-justrocket-justrocketteam-justrocketcommunity-wXTlDKOY0dFSfWU5cS " width="100" height="">
+
   
  
 <p align="center">
