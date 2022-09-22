@@ -6,11 +6,15 @@
 <a href="https://www.linkedin.com/in/saed-mohomed"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/saed-mohomed"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<h1 background="white">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Spring" width="40" height="40" Color="white"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> &nbsp;
-
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=blue&style=for-the-badgelabel=Those+WhoCameHere) 
 
