@@ -16,7 +16,7 @@
 
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=blue&style=for-the-badgelabel=Those+WhoCameHere) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saedMuhamed&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saedMuhamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saedMuhamed&theme=dark&background=000000)](https://git.io/streak-stats)
 
