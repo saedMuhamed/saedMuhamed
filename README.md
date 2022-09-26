@@ -25,7 +25,7 @@
 ### Software Engineering 
 
 ###  React 🏋️ Developer 
-###  MERN DEV 🫡
+###  MERN DEV 🫡 
 ###  UI/UX Designer 
 ###  Tech Geek 🤗 😃
 
