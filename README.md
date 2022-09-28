@@ -16,6 +16,10 @@ Vibe
 </h1>
 </h1>
 
+![Webpack Badge](https://img.shields.io/badge/-Webpack-5FC8F8?style=for-the-badge&labelColor=white&logo=webpack)](#)
+[![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&labelColor=white&logo=react&logoColor=blue)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=white&logo=node.js&logoColor=3C873A)](#)
+
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=blue&style=for-the-badgelabel=Those+WhoCameHere) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saedMuhamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
