@@ -14,11 +14,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Material UI" width="40" height="40"/> &nbsp;
 </h1>
 </h1>
-
+<h1>
 ![Webpack Badge](https://img.shields.io/badge/-Webpack-5FC8F8?style=for-the-badge&labelColor=white&logo=webpack)
 ![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&labelColor=white&logo=react&logoColor=blue)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=white&logo=node.js&logoColor=3C873A)](#)
-
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=saedMuhamed&color=blue&style=for-the-badgelabel=Those+WhoCameHere) 
  
