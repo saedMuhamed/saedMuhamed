@@ -28,8 +28,6 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saedMuhamed&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h1>
- Software Engineering 
 ###  React 🏋️ Developer 
 ###  MERN DEV 🫡 
 ###  UI/UX Designer 
