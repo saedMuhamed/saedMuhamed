@@ -30,8 +30,6 @@
 
 <h1>
  Software Engineering 
-</h1>
-
 ###  React 🏋️ Developer 
 ###  MERN DEV 🫡 
 ###  UI/UX Designer 
