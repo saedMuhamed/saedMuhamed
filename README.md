@@ -25,7 +25,7 @@
 
 
 
-###  UI/UX Designer 
+###  UI/UX 
 ###  Tech Geek 🤗 😃
 
 
