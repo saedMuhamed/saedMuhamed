@@ -16,6 +16,7 @@
 </h1>
 </h1> 
 
+
 ![Webpack Badge](https://img.shields.io/badge/-Webpack-5FC8F8?style=for-the-badge&labelColor=white&logo=webpack)
 ![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&labelColor=white&logo=react&logoColor=blue)
 
@@ -40,5 +41,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fu
+
 -->
 
