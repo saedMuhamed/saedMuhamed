@@ -27,7 +27,6 @@
 
 Here are some ideas to get you started
 - 
-
 - g ...
 - 👯 I’m looking to collaborate on .
 - 🤔 I’m looking for help with . 
