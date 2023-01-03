@@ -27,7 +27,7 @@ Here are some ideas to get you started
 - g ...
 - 👯 I’m looking to collaborate  
 - 🤔 I’m looking for help with . 
-- 💬 Ask me abou
+- 💬 Ask me a
 - 📫 Ho
 - 😄 P
 - ⚡ 
