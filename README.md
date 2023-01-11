@@ -25,7 +25,7 @@
 Here are some ideas to get you started
 - 
 - g .. see
-- 👯 I’m looking to 
+- 👯 I’m looking to
 - 🤔 I’m looking
 - 💬 Ask 
 - 📫 
