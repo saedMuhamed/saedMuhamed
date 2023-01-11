@@ -25,7 +25,7 @@
 Here are some ideas to get you started
 - 
 - g .. see
-- 👯 I’m looking to colla
+- 👯 I’m looking to col
 - 🤔 I’m looking
 - 💬 Ask 
 - 📫 
