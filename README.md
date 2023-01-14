@@ -28,7 +28,7 @@ Here are some ideas to get you started
 - 👯 I’m looking
 - 🤔 I’m looking
 - 💬 Ask 
-- 📫 
+- 📫 mail
 - 😄 
 - ⚡ 
 
